@@ -14,5 +14,6 @@
 3. Tres
 4. Cuatro
 
-**Negritas**
+** texto Negritas**
 _texto italica_
+*** Negritas italica ***
