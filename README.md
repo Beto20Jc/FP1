@@ -18,4 +18,4 @@
 _texto italica_
 ***Negritas italica***
 
-![Lord oscuro de los sith](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.domestika.org%2Fes%2Fprojects%2F451827-star-wars-darth-vader&psig=AOvVaw0WUg8WJouxkvRqN3aOfmoO&ust=1728088392150000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMClm6e984gDFQAAAAAdAAAAABAE)
+![Lord oscuro de los sith]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.domestika.org%2Fes%2Fprojects%2F451827-star-wars-darth-vader&psig=AOvVaw0WUg8WJouxkvRqN3aOfmoO&ust=1728088392150000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMClm6e984gDFQAAAAAdAAAAABAE](https://cdn.domestika.org/c_limit,dpr_1.0,f_auto,q_80,w_820/v1544486957/content-items/002/660/168/Vader_final2-original.png?1544486957))
